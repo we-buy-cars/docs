@@ -4,8 +4,8 @@
 1. [Overview](#overview)
 2. [Process](#process)
 3. [Example](#example)
-4. [Hot-fix](#hotfix)
-5. [Housekeeping](#housekeeing)
+4. [Hot-fix](#hot-fix)
+5. [Housekeeping](#housekeeping)
 
 ## Overview
 The branching strategy resembles the [GitLab flow](https://about.gitlab.com/topics/version-control/what-is-gitlab-flow/#how-does-git-lab-flow-work), but it has some differences. This document describes the differences and why they exist.
